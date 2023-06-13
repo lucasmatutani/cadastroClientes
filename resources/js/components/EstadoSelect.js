@@ -29,7 +29,7 @@ const EstadoSelect = ({ estado, onChange }) => {
     'São Paulo',
     'Sergipe',
     'Tocantins'
-  ];
+  ]
 
   return (
     <div className="col mb-3">
